@@ -176,7 +176,7 @@ img { max-width: 100%; height: auto; display: block; }
 }
 
 .certo-brand {
-  font-size: 1.6rem;
+  font-size: 1.5rem;
   font-weight: 800;
   color: var(--color-dark) !important;
   letter-spacing: -0.5px;
