@@ -372,7 +372,7 @@ img { max-width: 100%; height: auto; display: block; }
 
 /* ── FEATURES SECTION ─────────────────────────────────────── */
 .features-section {
-  background: var(--color-white);
+  background: var(--color-light-bg);
   padding: 6rem 0;
 }
 
