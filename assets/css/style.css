@@ -476,7 +476,7 @@ background: #4361EE;
 }
 
 .blog-img-placeholder {
-  height: 180px;
+  height: 200px;
   background: var(--color-primary);
   display: flex;
   align-items: center;
