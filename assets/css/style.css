@@ -306,7 +306,7 @@ img { max-width: 100%; height: auto; display: block; }
 }
 
 .review-card {
-  background: var(--color-white);
+  background: var(--color-light-bg);
   border-radius: var(--radius-card);
   padding: 1.8rem;
   box-shadow: var(--shadow-card);
