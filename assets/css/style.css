@@ -356,8 +356,8 @@ img { max-width: 100%; height: auto; display: block; }
 .mission-img-wrapper { display: flex; justify-content: center; }
 
 .mission-img-placeholder {
-  width: 360px;
-  height: 280px;
+   width: 100%;
+  height: 320px;
   background: var(--color-border);
   border-radius: var(--radius-card);
   display: flex;
