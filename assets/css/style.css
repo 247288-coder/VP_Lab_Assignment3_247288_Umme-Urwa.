@@ -204,7 +204,7 @@ img { max-width: 100%; height: auto; display: block; }
 .hero-text { padding-right: 2rem; }
 
 .hero-title {
-  font-size: clamp(2rem, 5vw, 3.2rem);
+  font-size: clamp(2rem, 5vw, 2.8rem);
   font-weight: 800;
   color: var(--color-dark);
   line-height: 1.15;
