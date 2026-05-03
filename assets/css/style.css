@@ -318,7 +318,7 @@ img { max-width: 100%; height: auto; display: block; }
   box-shadow: var(--shadow-hover);
 }
 
-.stars { color: var(--color-star); font-size: 0.9rem; }
+.stars { color: var(--color-star); font-size: 1rem; }
 
 .review-text {
   font-size: 0.9rem;
