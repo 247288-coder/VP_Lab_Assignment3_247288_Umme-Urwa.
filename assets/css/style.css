@@ -194,7 +194,7 @@ img { max-width: 100%; height: auto; display: block; }
 
 /* ── HERO SECTION ─────────────────────────────────────────── */
 .hero-section {
-  background: var(--color-white);
+  background: var(--color-primary);
   padding: 5rem 0 4rem;
   overflow: hidden;
 }
