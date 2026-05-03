@@ -377,7 +377,7 @@ img { max-width: 100%; height: auto; display: block; }
 }
 
 .feature-card {
-  background: var(--color-light-bg);
+  background: var(--color-white);
   border-radius: var(--radius-card);
   padding: 2rem;
   height: 100%;
