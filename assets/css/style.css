@@ -6,7 +6,7 @@
              Light BG #F8F9FA | Card BG #FFFFFF | Border #E5E7EB
    ============================================================ */
 
-/* ── DESIGN TOKENS ────────────────────────────────────────── */
+/* === DESIGN VARIABLES === */
 :root {
   --color-primary:    #FFC107;
   --color-primary-dk: #E6AC00;
