@@ -243,8 +243,8 @@ img { max-width: 100%; height: auto; display: block; }
 .hero-phone-mock {
   position: relative;
   z-index: 1;
-  width: 220px;
-  height: 380px;
+  width: 230px;
+  height: 400px;
   background: var(--color-dark);
   border-radius: 32px;
   margin: 0 auto;
