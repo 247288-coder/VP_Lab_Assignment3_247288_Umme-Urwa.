@@ -440,7 +440,7 @@ img { max-width: 100%; height: auto; display: block; }
 
 /* ── CTA BANNER SECTION ───────────────────────────────────── */
 .cta-banner-section {
-  background: var(--color-dark);
+background: #4361EE;
   padding: 5rem 0;
 }
 
