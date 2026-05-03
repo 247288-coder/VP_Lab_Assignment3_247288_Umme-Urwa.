@@ -530,7 +530,7 @@ background: #4361EE;
 
 /* ── FOOTER ───────────────────────────────────────────────── */
 .certo-footer {
-  background: var(--color-dark);
+   background: var(--color-dark-2);
   color: rgba(255,255,255,0.7);
   padding: 5rem 0 2rem;
 }
