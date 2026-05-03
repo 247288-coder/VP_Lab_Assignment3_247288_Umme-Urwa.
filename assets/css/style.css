@@ -639,6 +639,7 @@ background: #4361EE;
 }
 
 @media (max-width: 360px) {
+    .cta-banner-title {font-size: 1.4rem;}
   .hero-title { font-size: 1.7rem; }
   .btn-hero-dark,
   .btn-hero-outline { font-size: 0.82rem; padding: 0.6rem 1rem; }
