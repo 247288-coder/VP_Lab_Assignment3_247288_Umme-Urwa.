@@ -605,9 +605,10 @@ background: #4361EE;
 
 /* ── RESPONSIVE BREAKPOINTS ───────────────────────────────── */
 
-@media (min-width: 768px) {
-  .hero-title { font-size: 2.6rem; }
-  .mission-img-placeholder { width: 100%; max-width: 420px; }
+@media (max-width: 768px) {
+  .review-card {
+    margin-bottom: 8px;
+  }
 }
 
 @media (min-width: 1200px) {
