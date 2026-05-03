@@ -296,7 +296,7 @@ img { max-width: 100%; height: auto; display: block; }
 
 /* ── REVIEWS SECTION ──────────────────────────────────────── */
 .reviews-section {
-  background: var(--color-primary);
+  background: var(--color-white);
   padding: 5rem 0;
 }
 
