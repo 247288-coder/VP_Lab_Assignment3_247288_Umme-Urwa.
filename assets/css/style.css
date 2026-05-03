@@ -458,7 +458,7 @@ background: #4361EE;
 
 /* ── BLOG SECTION ─────────────────────────────────────────── */
 .blog-section {
-  background: var(--color-light-bg);
+  background: var(--color-white);
   padding: 6rem 0;
 }
 
