@@ -625,6 +625,7 @@ background: #4361EE;
   .hero-phone-mock { width: 170px; height: 300px; }
   .hero-blob { width: 260px; height: 260px; }
   .min-vh-hero { min-height: auto; }
+  .blog-card {margin-bottom: 10px;}
 
   .reviews-section,
   .mission-section,
